@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Potta+One&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Asap', sans-serif;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 500px;
+}
+
+.bar{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#button{
+    background-color: #ffcc00;
+    padding: 8px;
+}
+
+header img{
+    max-width: 100%;
+}
+
+div>img{
+    width: 25%;
+}
+
+#why{
+    min-height: 500px;
+    text-align: center;
+}
+
+#why p{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+p{
+    font-size: 25px;
+}
+
+header{
+    background-image: url("./assets/save\ sea\ animal.png");
+    background-size: 100% 100%;
+    padding: 10% 0%;
+    color: white;
+    height: 500px;
+}
+
+
+footer{
+    background-image: url("./assets/http://i1.faceprep.in/prograd-junior/black-background.png");
+    background-size: 100% 100%;
+    padding: 10% 0%;
+    color: white;
+}
+
+h1{
+    font-size: 70px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+footer p{
+    padding: 0% 20%;
+}
+
+.bar p{
+    color: white;
+}
+
+.rescue{
+    text-align: center;
+    background-color: yellow;
+}
+
+div p{
+    text-align: center;
+}
+
+
+header{
+    text-align: center;
+}
+
+.para{
+    text-align: center;
+    width: 80%;
+   margin: auto;
+    display: flex;
+    justify-content: center;
+    color: black;
+   
+}
+
+.title{
+    text-align: center;
+}
+
+
+.parag{
+    text-align: center;
+    width: 80%;
+   margin: auto;
+    display: flex;
+    justify-content: center;
+    color: black;
+    
+}
+
+.home{
+    width: 50%;
+    height: 50%;
+}
+
+.bg{
+    background-color: #ADD8E6;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+  width: 250px;
+  height: 50px;
+  border: 1px solid gray;
+  padding: 0 5px;
+}
+ 
+.block-display {
+    display: block;
+  }
+
+label {
+    font-size: 30px;
+    margin: 20px 0px 4px 0px;
+  }
+  
+  .fm{
+      text-align: center;
+  }
+
+.profile, .pre,  .pgm, .pro, .sk,.su, .nk, .ku, .pr, .pro{
+    background-color: #ADD8E6 ;
+    text-align: center;
+}
+
+.h2{
+   text-align: right;
+}
+
+.ku{
+    text-align: center;
+}
+
